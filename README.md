@@ -1,1 +1,2 @@
 # dl2
+ゼロから作るDeepLearning2を読みながらgitの練習もする。
